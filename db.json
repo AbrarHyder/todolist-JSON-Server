@@ -1,0 +1,97 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "consult": [
+    {
+      "id": 1,
+      "message": "check"
+    },
+    {
+      "message": "Buy Milk",
+      "id": 3
+    },
+    {
+      "message": "Buy Bread",
+      "id": 4
+    },
+    {
+      "message": "Buy Bread",
+      "id": 5
+    },
+    {
+      "message": "Buy Bread",
+      "id": 6
+    },
+    {
+      "message": "Buy Milk",
+      "id": 7
+    },
+    {
+      "message": "Buy Bread",
+      "status": "",
+      "id": 8
+    },
+    {
+      "message": "Buy Bread",
+      "status": "",
+      "id": 9
+    },
+    {
+      "message": "Buy Bread ",
+      "status": "True",
+      "id": 10
+    },
+    {
+      "message": "Buy Bread ",
+      "status": "True",
+      "id": 11
+    },
+    {
+      "message": "Buy Bread ",
+      "status": "True",
+      "id": 12
+    },
+    {
+      "message": "Buy Bread ",
+      "status": "True",
+      "id": 13
+    },
+    {
+      "message": "",
+      "status": "",
+      "id": 14
+    },
+    {
+      "message": "",
+      "status": "",
+      "id": 15
+    },
+    {
+      "message": "Buy Bread",
+      "status": "True",
+      "id": 16
+    },
+    {
+      "message": "Buy Bread",
+      "status": "True",
+      "id": 17
+    }
+  ]
+}
